@@ -1,1 +1,1 @@
-# leraning_path_app
+# udemy_flask
